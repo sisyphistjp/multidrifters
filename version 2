@@ -12,7 +12,7 @@
 	      'The Horror',
 	      'Red Leader',
 	      'Ralph',
-	      'Jishiqua'
+	      'Jishiiqua'
 	  ], [ // No A1
 	      'Ianir',
 	      'Jester',
@@ -57,7 +57,7 @@
 	      'GoatTheH',
 	      'PowerPaladin',
 	      'Tastybites',
-	      'Pseudo Nine',
+	      'Pseudo_nine',
 	      'LizardWizard'
 	  ], [ // Mid-tier team
 	      'TechSoup',
@@ -76,9 +76,9 @@
 	      'Stardewd'
 	  ], [ // SPL lite
 	      'Aleric Kerensky',
-	      'maestro 2000x',
+	      'maestro____2000x',
 	      'Orion',
-	      'Innocent Dictator',
+	      'Inocent Dictator',
 	      'antistellar',
 	      'Ghostalker'
 	  ], [ // How did they lose?
@@ -89,28 +89,32 @@
 	      'Hod',
 	      'Kreigzilla',
 	      'Luma'
-	  ], [ // Other Zs, not Zultri
+	  ], [ // would have better memes with an open discord
 	      'quinnessence',
 	      'Rebelpilot',
 	      'Lorhin',
 	      'Zastre',
 	      'Zerith',
 	      'LBT_Boys',
-	      'brrdbrain'
+	      'brrdbrain',
+	      'N0V0w3ls',
+	      'Agent Rob'
 	  ], [ // ex-Dads
 	      'Reign1701A',
 	      'Wafflepotato',
 	      'Floophead',
 	      'DoomheitK',
 	      'Rico1kenobi',
-	      'VectorVictor'
+	      'VectorVictor',
+	      'Dead_Weight'
 	  ], [ // Laggy games
 	      'SISYPHISTJP',
 	      'Hobbes_AU',
 	      'Biggles',
 	      'Chewbaccabra',
-	      'Staffycat'
-	  ], [ // More laggy games
+	      'Staffycat',
+	      'Cynric'
+	  ], [ // spends too much time with Sinister
 	      'Gonk',
 	      'Timebomb011',
 	      'Nat067han',
@@ -118,7 +122,7 @@
 	      'Brother Snuffleupagus',
 	      'Taurus',
 	      'LuckiestDuckling'
-	  ], [ // the other randos
+	  ], [ // randos, but the less scary ones
 	      'Shoob',
 	      'FamePlane',
 	      'Six',
@@ -133,7 +137,7 @@
 	      'Jackson',
 	      'Vellian',
 	      'coralvanda'
-	  ], [ // future Hell Porgs
+	  ], [ // future Hell Porgs -- how many Gray are there????
 	      'Athlete',
 	      'KeblaOmega',
 	      'Sundance',
@@ -143,6 +147,19 @@
 	      'Succhi',
 	      'BIKER BUGGS',
 	      'Break Windu'
+	  ], [ // have to stay up all night to find them
+	      'Hail Luoca',
+	      'Jack Norrisun',
+	      'Bronco001',
+	      'cocoa_L10N',
+	      'beryl831'
+	  ], [ // skull ded but wants mention
+	      'Medik55',
+	      'Saber42',
+	      'poiboi',
+	      'hiddengecko',
+	      'TheRealSlimPanda',
+	      'L0PEZg'
 	  ]
       ];
       function nameAndShame() {
