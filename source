@@ -1,0 +1,172 @@
+
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+    <title>Cheating multidrifters are ruining Squadrons!</title>
+    <script>
+      var allNames = [
+	  [ // Angry brits
+	      'A.Ham',
+	      'Eledran',
+	      'Knight',
+	      'The Horror',
+	      'Red Leader',
+	      'Ralph',
+	      'Jishiqua'
+	  ], [ // No A1
+	      'Ianir',
+	      'Jester',
+	      'MistaZiggy',
+	      'VicsYeah',
+	      'Submh0',
+	      'RANDO_Alex',
+	      'Brandon101'
+	  ], [ // Marketing experts
+	      'Fencar',
+	      'nop',
+	      'Scalpwakka',
+	      'Macklunky',
+	      'Jareen',
+	      'Brunas',
+	      'Nobear',
+	      'Reflex'
+	  ], [ // Lost their hair
+	      'Zultri',
+	      'Hamati',
+	      'babyseal',
+	      'MildMisanthropy',
+	      'Mblematic',
+	      'DarkKrieg'
+	  ], [ // They still play?
+	      'Cheese',
+	      'Arios',
+	      'dstrik',
+	      'RinkyDinkis',
+	      'Delta',
+	      'Sunshine'
+	  ], [ // Other Gray Team
+	      'Matticus Rex',
+	      'Heller',
+	      'Eckpired',
+	      'Esoda',
+	      'Chad Wyck',
+	      'Lions'
+	  ], [ // Bunch of streamers
+	      'Morg',
+	      'Elusive',
+	      'GoatTheH',
+	      'PowerPaladin',
+	      'Tastybites',
+	      'Pseudo Nine',
+	      'LizardWizard'
+	  ], [ // Mid-tier team
+	      'TechSoup',
+	      'turnip turnip',
+	      'Scribbler',
+	      'ePapa',
+	      'zyphaz',
+	      'richard wille',
+	      'Not Tom'
+	  ], [ // Name stuff after me
+	      'Lemming',
+	      'Sheriff',
+	      'Radiant Prime',
+	      'Liven Le Hutt',
+	      'Loumeun Le Hutt',
+	      'Stardewd'
+	  ], [ // SPL lite
+	      'Aleric Kerensky',
+	      'maestro 2000x',
+	      'Orion',
+	      'Innocent Dictator',
+	      'antistellar',
+	      'Ghostalker'
+	  ], [ // How did they lose?
+	      'Trapster',
+	      'Narcyst',
+	      'Dynasty',
+	      'Minor7th',
+	      'Hod',
+	      'Kreigzilla',
+	      'Luma'
+	  ], [ // Other Zs, not Zultri
+	      'quinnessence',
+	      'Rebelpilot',
+	      'Lorhin',
+	      'Zastre',
+	      'Zerith',
+	      'LBT_Boys',
+	      'brrdbrain'
+	  ], [ // ex-Dads
+	      'Reign1701A',
+	      'Wafflepotato',
+	      'Floophead',
+	      'DoomheitK',
+	      'Rico1kenobi',
+	      'VectorVictor'
+	  ], [ // Laggy games
+	      'SISYPHISTJP',
+	      'Hobbes_AU',
+	      'Biggles',
+	      'Chewbaccabra',
+	      'Staffycat'
+	  ], [ // More laggy games
+	      'Gonk',
+	      'Timebomb011',
+	      'Nat067han',
+	      'Phoenix1',
+	      'Brother Snuffleupagus',
+	      'Taurus',
+	      'LuckiestDuckling'
+	  ], [ // the other randos
+	      'Shoob',
+	      'FamePlane',
+	      'Six',
+	      'BathWaterPizza',
+	      'DiscoDin0',
+	      'Datenshi'
+	  ], [ // moar Gray
+	      'MegadetH',
+	      'Jido Vondar',
+	      'Rediac',
+	      'Plus',
+	      'Jackson',
+	      'Vellian',
+	      'coralvanda'
+	  ], [ // future Hell Porgs
+	      'Athlete',
+	      'KeblaOmega',
+	      'Sundance',
+	      'Calamity',
+	      'LandoCatrissian',
+	      'Saabotage',
+	      'Succhi',
+	      'BIKER BUGGS',
+	      'Break Windu'
+	  ]
+      ];
+      function nameAndShame() {
+	  var randomTeam = allNames[Math.floor(Math.random()*allNames.length)];
+	  var name = randomTeam[Math.floor(Math.random()*randomTeam.length)];
+          document.getElementById("nameAndShame").innerHTML = "<h1>" + name + " is a multidrifting exploiter!</h1>";
+      }
+      setInterval(nameAndShame, 5000);
+    </script>
+  </head>
+  <body onLoad='nameAndShame()'>
+    <div id='nameAndShame'></div>
+    <div>
+      <p>I am sick and tired of queuing up for a game of Squadrons and just getting matched with stack after stack of sweaty comp teams that just multidrift exploit their way to blowing up the flagship.  Sure, the game has low population so it's hard for matchmaking to create good games.  But, the WHOLE REASON that the game population is low is because SWEATY COMP TEAMS WON'T STOP MULTIDRIFTING.  New players try the game out, see the rampant exploiting that makes the game unfun, and naturally quit rather than be forced to fly a playstyle that EVERYBODY agrees is unnatural.</p>
+      <p>All of these exploiters keep coming up with excuses why this is okay, but none of them are true:</p>
+      <ul>
+        <li>"It's not multidrifting, it's just good power management." -- FALSE.  You do nothing but drift around.  Drift and drift and drift and drift.  MULTIPLE DRIFTS.  That's a MULTI DRIFT.</li>
+        <li>"I can't be multidrifting, I'm on a console." -- FALSE.  Timebomb released a <a href="https://youtu.be/U9t-slLl30E">video</a> showing how it's possible.</li>
+        <li>"This is just how the flight model works, it's not an exploit." -- FALSE.  The devs said that they didn't design it this way.</li>
+        <li>"It's fun to fly this way." -- FALSE.  Have fun playing by yourself after the entire playerbase leaves.</li>
+        <li>"Everybody can learn to do it, so it's okay." -- FALSE.  Go jump off a bridge with all of your friends.</li>
+      </ul>
+      <p>Look, this game is awesome, but it's being ruined by all of the multidrifters who would rather cheat their way to victory than fly the way that Lucas intended.  We've tried to tell these players to stop destroying the playerbase, but they will not stop.  The ONLY THING LEFT to SAVE THIS GAME is to CALL THEM OUT INDIVIDUALLY so we can just stop playing with these MULTIDRIFTING CHEATERS.</p>
+    </div>
+    <small>For edit requests, please reach out to the largest SWS discord that you can find so the people there can meme on you.  If you don't know where that is, just play and wait to be aggressively recruited.</small>
+  </body>
+</html>
